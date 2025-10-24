@@ -5,3 +5,5 @@ Supports basic arithmetic operations and has a visually appealing dark-orange th
 
 how to clone :
 git clone https://github.com/Ayooooub/Simple-calculator.git
+
+![Calculator Screenshot](Calculator.png)
